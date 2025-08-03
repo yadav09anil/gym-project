@@ -29,5 +29,3 @@ A responsive and modern gym website built using **HTML**, **CSS**, and **PHP**. 
     Use XAMPP, WAMP, or any local server.
     Place the folder inside the htdocs directory (if using XAMPP).
     Start Apache server.
-
-Visit http://localhost/pcte-gym/index.html.
