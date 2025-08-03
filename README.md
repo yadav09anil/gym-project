@@ -29,3 +29,17 @@ A responsive and modern gym website built using **HTML**, **CSS**, and **PHP**. 
     Use XAMPP, WAMP, or any local server.
     Place the folder inside the htdocs directory (if using XAMPP).
     Start Apache server.
+
+## 🏋️‍♂️ Gym Website Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshot/Home.png)
+
+### ℹ️ About Page
+![About Page](screenshot/About.png)
+
+### 🛠️ Services Page
+![Services Page](screenshot/Services.png)
+
+### 📞 Contact Page
+![Contact Page](screenshot/Contact.png)
