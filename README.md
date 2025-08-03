@@ -33,13 +33,13 @@ A responsive and modern gym website built using **HTML**, **CSS**, and **PHP**. 
 ## 🏋️‍♂️ Gym Website Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshot/Home.png)
+![Home Page](ScreenShot/Home.png)
 
 ### ℹ️ About Page
-![About Page](screenshot/About.png)
+![About Page](ScreenShot/About.png)
 
 ### 🛠️ Services Page
-![Services Page](screenshot/Services.png)
+![Services Page](ScreenShot/Services.png)
 
 ### 📞 Contact Page
-![Contact Page](screenshot/Contact.png)
+![Contact Page](ScreenShot/Contact.png)
