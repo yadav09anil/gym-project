@@ -1,0 +1,21 @@
+.gym{
+	height: 100vh;
+	/* display: flex;
+	justify-content: center;
+	align-items: center; */
+	/* flex-direction: column; */
+	background: url(./images/Picsart_23-10-17_19-16-13-077.png);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-color: black;
+}
+button{
+	display: block;
+	margin: auto;
+	margin-top: 30rem;
+	padding: 0.5rem 3rem;
+}
+h1{
+	color: white;
+	text-align: center;
+}
